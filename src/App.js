@@ -11,7 +11,7 @@ import Movie from "./pages/Movie";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App ">
         <Router>
           <Header />
             <Routes>
